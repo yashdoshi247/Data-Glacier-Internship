@@ -1,0 +1,11 @@
+file_type: csv
+dataset_name: person_details
+file_name: large_csv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+columns:
+    - ID
+    - Name
+    - Age
+    - City
+    - Country
